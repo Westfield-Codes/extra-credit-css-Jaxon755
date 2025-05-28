@@ -1,0 +1,29 @@
+.name{
+text-align: center;
+width:800px;
+border-radius: 20px;
+color:#FF4ADB;
+border-bottom: 1px solid #FF4ADB;
+height:467px;
+border:1px solid black;
+text-shadow: 10x 10px;
+}
+.hi{
+    background-color: #FF4ADB;
+    color:white;
+    font-size:150px;
+    border-radius:inherit ;
+   
+    
+    }
+    .is{
+        font-size:55px;
+        color:#FF4ADC;
+        margin: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+    }
+    .action{
+        border-bottom: 7px solid #FF4ADB;
+        margin:10px;
+    }
