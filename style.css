@@ -6,24 +6,31 @@ color:#FF4ADB;
 border-bottom: 1px solid #FF4ADB;
 height:467px;
 border:1px solid black;
-text-shadow: 10x 10px;
+box-shadow:15px 15px 10px 12px #666;
+
 }
 .hi{
     background-color: #FF4ADB;
     color:white;
     font-size:150px;
     border-radius:inherit ;
+   font-family:sans-serif;
    
     
     }
     .is{
-        font-size:55px;
+        font-size:60px;
         color:#FF4ADC;
         margin: 10px;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family:Arial, Helvetica, sans-serif;
         
     }
     .action{
-        border-bottom: 7px solid #FF4ADB;
-        margin:10px;
+        
+		
+       
     }
+	
+	img {
+		padding:70px;
+	}
