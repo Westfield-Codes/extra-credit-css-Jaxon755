@@ -1,7 +1,7 @@
 .name{
 text-align: center;
 width:800px;
-border-radius: 20px;
+border-radius:20px;
 color:#FF4ADB;
 border-bottom: 1px solid #FF4ADB;
 height:467px;
@@ -13,16 +13,20 @@ box-shadow:15px 15px 10px 12px #666;
     background-color: #FF4ADB;
     color:white;
     font-size:150px;
-    border-radius:inherit ;
-   font-family:sans-serif;
+    border-radius:inherit;
+    border-bottom-right-radius:0px;
+    border-bottom-left-radius: 0px;
+   font-family:Helvetica, Arial, sans-serif;
    
     
     }
-    .is{
+    h2,h3{
         font-size:60px;
         color:#FF4ADC;
         margin: 10px;
-        font-family:Arial, Helvetica, sans-serif;
+        font-family:Helvetica, Arial, sans-serif;
+        border-bottom:7px solid #FF4ADC; 
+        
         
     }
     .action{
