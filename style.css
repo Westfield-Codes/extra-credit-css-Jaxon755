@@ -3,7 +3,6 @@ text-align: center;
 width:800px;
 border-radius:20px;
 color:#FF4ADB;
-border-bottom: 1px solid #FF4ADB;
 height:467px;
 border:1px solid black;
 box-shadow:15px 15px 10px 12px #666;
@@ -25,16 +24,10 @@ box-shadow:15px 15px 10px 12px #666;
         color:#FF4ADC;
         margin: 10px;
         font-family:Helvetica, Arial, sans-serif;
-        border-bottom:7px solid #FF4ADC; 
-        
-        
-    }
-    .action{
-        
-		
        
+        
+        
     }
-	
 	img {
 		padding:70px;
 	}
